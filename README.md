@@ -1,2 +1,7 @@
-# demo-odontologia-ebenezer
-Demo web para Odontología Ebenezer — diseñada por eterlab.
+# Odontología Ebenezer
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
